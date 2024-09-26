@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://erosque.github.io/sitemap.erosque.gz
+Sitemap: https://erosque.github.io/app/sitemap.erosque.gz
+Sitemap: https://erosque.github.io/assets/sitemap.erosque.gz
+Sitemap: https://erosque.github.io/css/sitemap.erosque.gz
+Sitemap: https://erosque.github.io/data/sitemap.erosque.gz
+Sitemap: https://erosque.github.io/includes/sitemap.erosque.gz
+Sitemap: https://erosque.github.io/item/sitemap.erosque.gz
+Sitemap: https://erosque.github.io/src/sitemap.erosque.gz
